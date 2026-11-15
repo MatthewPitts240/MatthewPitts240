@@ -11,8 +11,8 @@ My journey in the Cyber Warrior Program has led me to develop a passion for cybe
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/MatthewPitts240/SIEM-Home-Lab">SIEM Home Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/MatthewPitts240/SIEM-Home-Lab">SIEM Home Lab</a>|
 
 ## Tools & Technologies
 <div>
@@ -47,4 +47,4 @@ My journey in the Cyber Warrior Program has led me to develop a passion for cybe
 </div>
 
 ## Projects
-- SIEM Home Lab
+- <a href="https://github.com/MatthewPitts240/SIEM-Home-Lab">SIEM Home Lab</a>
