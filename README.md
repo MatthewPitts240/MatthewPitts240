@@ -47,5 +47,4 @@ My journey in the Cyber Warrior Program has led me to develop a passion for cybe
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- SIEM Home Lab
